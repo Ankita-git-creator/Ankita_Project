@@ -16,3 +16,5 @@ HOW TO USE:- (a) At first, you have to add this "Facabook Extension" to your chr
              (f) Then you have to put your valid gmail and password of Facebook account,
              (g) After that,you have to give time(in seconds),
              (h) Then you will see the results that how the extension will be work.
+
+Here is a small reference through a video link on how to use this extension:- https://www.loom.com/share/ca92cd7a70d44b018f56b73b7e06c432
