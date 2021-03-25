@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<form action="/popup.html" method="GET" id="ankita">
+  <div class="input-container">
+    <input class="input-field mail" type="text" placeholder="enter your valid gmail" name="gmail" required>
+    <div class="err-msg-1"></div>
+  </div>
+  
+  <div class="input-container">
+    <input class="input-field password" type="password" placeholder="Password must be minimum 6 characters" name="password" minlength="6">
+  </div>
+  <div class="err-msg-2"></div>
+
+  <button type="submit" id="login" class="button">log in</button>
+</form>
+<script src="./login.js"></script>
+</body>
+</html>
